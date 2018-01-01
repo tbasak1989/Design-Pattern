@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Rename package &apos;com.techprimers&apos; to &apos;com.tanmoy&apos;&#x0D;&#x0A;- Original project: &apos;structural-design-pattern-example&apos;&#x0D;&#x0A;- Original element: &apos;structural-design-pattern-example/src/main/java/com.techprimers&apos;&#x0D;&#x0A;- Renamed element: &apos;structural-design-pattern-example/src/main/java/com.tanmoy&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings&#x0D;&#x0A;- Rename subpackages of the package" description="Rename package &apos;com.techprimers&apos;" flags="589830" hierarchical="true" id="org.eclipse.jdt.ui.rename.package" input="/src\/main\/java&lt;com.techprimers" name="com.tanmoy" qualified="false" references="true" stamp="1514828543627" textual="false" version="1.0"/>
-</session>
